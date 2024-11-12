@@ -1,6 +1,6 @@
 /*
 * Name: Clock and Temp Project
-* Author: Victor Huke
+* Author: Kaan Önal
 * Date: 2024-10-10
 * Description: This project uses a DS3231 to measure time and displays the time on an OLED display.
 * Additionally, it measures temperature and controls a continuous servo motor's speed based on the temperature.
